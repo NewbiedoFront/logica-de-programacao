@@ -1,2 +1,2 @@
-# logica-de-programacao
+# Logica de Programação | Introdução
 Revisões e novos conteúdos relacionados...
