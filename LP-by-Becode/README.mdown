@@ -1,0 +1,21 @@
+# A melhor forma de aprender lógica de programação!
+
+> Dicas e conceitos que você precisa conhecer antes de começar a aprender tudo que existe sobre lógica de programação...
+
+[Leia o Artigo completo aqui...](https://becode.com.br/melhor-forma-de-aprender-logica-de-programacao/ "por Erick Scudero")
+
+===
+
+`Revisar alguns conceitos, como...`
+
+- * [ ] 1° Operadores lógicos.
+	- [O que são tipos de dados primitivos?](http://www.dicasdeprogramacao.com.br/tipos-de-dados-primitivos/)
+	- [Conheça os operadores lógicos!](http://www.dicasdeprogramacao.com.br/operadores-logicos/)
+	- [Operador lógico - via wikipedia](https://pt.wikipedia.org/wiki/Operador_l%C3%B3gico)
+	- [Operadores Lógicos - vi tiexpert.net](http://www.tiexpert.net/download/pdf/algoritmo/operadoreslogicos.pdf)
+	- [08-OperadoresLogicos - via IME-USP](https://www.ime.usp.br/~hitoshi/introducao/08-OperadoresLogicos.pdf "IME-USP - Carlos Hitoshi Morimoto")
+* [ ] 2° Operadores Aritméticos. 
+* [ ] 3° Ordens de precedência.
+* [ ] 4° Teoria dos conjuntos.
+
+`...aprender lógica de programação será algo muito mais natural.`
