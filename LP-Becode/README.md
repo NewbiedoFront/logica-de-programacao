@@ -10,14 +10,14 @@
 
 Revisar estes conceitos, aprender lógica de programação será algo muito mais natural.
 
-* [ ]  1° Operadores lógicos.
+* [x] Operadores lógicos.
   
-  - * [x] 1. [O que são tipos de dados primitivos?](http://www.dicasdeprogramacao.com.br/tipos-de-dados-primitivos/)
-  - * [x] 2. [Lógica booleana? Sua história e como ela funciona](https://www.tecmundo.com.br/programacao/1527-logica-booleana-saiba-um-pouco-mais-sobre-esta-logica-e-como-ela-funciona.htm "por Elaine Martins via TecMundo")
-  - * [ ] 3. [Conheça os operadores lógicos!](http://www.dicasdeprogramacao.com.br/operadores-logicos/)
-  - * [ ] 4. [Operador lógico - via wikipedia](https://pt.wikipedia.org/wiki/Operador_l%C3%B3gico)
-  - * [ ] 5. [Operadores Lógicos - vi tiexpert.net](http://www.tiexpert.net/download/pdf/algoritmo/operadoreslogicos.pdf)
-  - * [ ] 6. [08-OperadoresLogicos - via IME-USP](https://www.ime.usp.br/~hitoshi/introducao/08-OperadoresLogicos.pdf "IME-USP - Carlos Hitoshi Morimoto")
+  - 1. [O que são tipos de dados primitivos?](http://www.dicasdeprogramacao.com.br/tipos-de-dados-primitivos/)
+  - 2. [Lógica booleana? Sua história e como ela funciona](https://www.tecmundo.com.br/programacao/1527-logica-booleana-saiba-um-pouco-mais-sobre-esta-logica-e-como-ela-funciona.htm "por Elaine Martins via TecMundo")
+  - 3. [Conheça os operadores lógicos!](http://www.dicasdeprogramacao.com.br/operadores-logicos/)
+  - 4. [Operador lógico - via wikipedia](https://pt.wikipedia.org/wiki/Operador_l%C3%B3gico)
+  - 5. [Operadores Lógicos - vi tiexpert.net](http://www.tiexpert.net/download/pdf/algoritmo/operadoreslogicos.pdf)
+  - 6. [08-OperadoresLogicos - via IME-USP](https://www.ime.usp.br/~hitoshi/introducao/08-OperadoresLogicos.pdf "IME-USP - Carlos Hitoshi Morimoto")
 
 * [ ]  2° Operadores Aritméticos.
   
