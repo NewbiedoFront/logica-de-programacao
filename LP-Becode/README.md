@@ -21,7 +21,9 @@ Revisar estes conceitos, aprender lógica de programação será algo muito mais
 
 * [ ]  2° Operadores Aritméticos.
   
-  - * [ ] ...
+  - 1. [Operadores Aritméticos, Lógicos e Relacionais - via JPortugol](https://jportugol.wordpress.com/2011/12/30/operadores-aritmeticos-logicos-e-relacionais/"Andreia Gusmão")
+  - 2. [Operadores Aritméticos, Relacionais, Lógicos e de Atribuição - via NoBIOS](http://everson.com.br/files/Operadores.pdf "por Everson Santos")
+  - 3. [Operadores e regras de precedencias -  via Instituto Superior Técnico - Lisboa/PT](http://web.ist.utl.pt/ist153068/ficheiros/teoricas/Programacao_I_Cap_4_Operadores_e_regras_de_precedenias.pdf "por Gustavo Sebastião")
 
 * [ ]  3° Ordens de precedência.
   
