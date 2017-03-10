@@ -27,7 +27,7 @@ Revisar estes conceitos, aprender lógica de programação será algo muito mais
 
 * [ ]  3° Ordens de precedência.
   
-  - * [ ] ...
+  - 1. [Precedência Geral dos Operadores Aritméticos - Cristian Cechinel](http://www.cristiancechinel.pro.br/my_files/algorithms/bookhtml/node39.html)
 
 * [ ]  4° Teoria dos conjuntos.
   
