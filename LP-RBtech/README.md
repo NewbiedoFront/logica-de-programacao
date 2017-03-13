@@ -12,3 +12,8 @@ Da teoria à prática...
   
   - Um pouco da sua História: [Wikipédia](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_l%C3%B3gica)
   - Baixe o Visualg para começar: [Download - SourceForge.net](https://sourceforge.net/projects/visualg30/)
+  
+
+===
+
+**OBS:** `Caso você esteja usando alguma GNU/Distro linux. Instale o WINE para executar o visualg`
