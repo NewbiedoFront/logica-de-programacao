@@ -1,0 +1,14 @@
+<h1 align="center">
+  Tipos de Operadores
+</h1>
+
+  
+|  ARITMÉTICOS  |   LÓGICOS   |  RELACIONAIS  |    LITERAIS    |
+|:-------------:|:-----------:|:-------------:|:--------------:|
+|       +       |     and     |       =       |                |
+|       -       |     or      |      < >      | Concatenação   |
+|       /       |     not     |       <       |                |
+|       *       |             |       >       |                |
+
+
+Estes é só uma introdução, mas existem mais...

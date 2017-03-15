@@ -14,6 +14,4 @@ Da teoria à prática...
   - Baixe o Visualg para começar: [Download - SourceForge.net](https://sourceforge.net/projects/visualg30/)
   
 
-===
-
 **OBS:** `Caso você esteja usando alguma GNU/Distro linux. Instale o WINE para executar o visualg`
